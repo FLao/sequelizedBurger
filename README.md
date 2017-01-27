@@ -1,6 +1,6 @@
 # sequelizedBurger
 Steps to run app:
-<ul>
+<ol>
 <li>
 npm install
 </li>
@@ -11,6 +11,6 @@ setup the database using the schema.sql file contained in folder db
 to run queries the table name is Burgers
 </li>
 <li>
-app runs onhttp://localhost:3000/
+app runs on http://localhost:3000/
 </li>
-</ul>
+</ol>

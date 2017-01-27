@@ -29,8 +29,8 @@ router.post("/", function(request, response) {
 
 router.put("/:id", function(request, response) {
 
-  console.log("here!!!");
-  /*  
+//  console.log("here!!!");
+
   db.Burger.update({devoured: 1},
     {
       where: {
@@ -39,7 +39,6 @@ router.put("/:id", function(request, response) {
     }).then(function() {
       response.redirect("/");
   });
-  */
 });
 
 // Export routes for server.js to use.

@@ -2,9 +2,15 @@
 Steps to run app:
 <ul>
 <li>
-1) npm install
-2) setup the database using the schema.sql file contained in folder db
-3) to run queries the table name is Burgers
-4) app runs onhttp://localhost:3000/
+npm install
+</li>
+<li>
+setup the database using the schema.sql file contained in folder db
+</li>
+<li>
+to run queries the table name is Burgers
+</li>
+<li>
+app runs onhttp://localhost:3000/
 </li>
 </ul>
